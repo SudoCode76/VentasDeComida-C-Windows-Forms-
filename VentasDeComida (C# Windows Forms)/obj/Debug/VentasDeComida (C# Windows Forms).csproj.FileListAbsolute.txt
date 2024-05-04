@@ -1,0 +1,12 @@
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\bin\Debug\VentasDeComida (C# Windows Forms).exe.config
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\bin\Debug\VentasDeComida (C# Windows Forms).exe
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\bin\Debug\VentasDeComida (C# Windows Forms).pdb
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).csproj.AssemblyReference.cache
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida__C__Windows_Forms_.Form1.resources
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida__C__Windows_Forms_.Properties.Resources.resources
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).csproj.GenerateResource.cache
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).csproj.CoreCompileInputs.cache
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).exe
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).pdb
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\bo332\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\VentasDeComida (C# Windows Forms)\VentasDeComida (C# Windows Forms)\obj\Debug\VentasDeComida (C# Windows Forms).csproj.CopyComplete
